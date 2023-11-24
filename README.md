@@ -1,1 +1,1 @@
-Defina o nível do Herói.
+Desafio Classificador de nível de Herói
